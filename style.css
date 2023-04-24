@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(107, 197, 197);
+}
+
+section {
+    margin: auto;
+    width: 500px;
+    height: 180px;
+    background-color: white;
+}
